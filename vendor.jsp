@@ -1,0 +1,1 @@
+<html><body><h2>Welcome, Vendor!</h2></body></html>

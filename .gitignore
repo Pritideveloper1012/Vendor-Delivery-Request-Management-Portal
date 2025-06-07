@@ -1,0 +1,4 @@
+*.class
+/WEB-INF/classes/
+/target/
+*.log
